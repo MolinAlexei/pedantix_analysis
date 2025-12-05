@@ -1,0 +1,1275 @@
+1	4398	Affaire Dreyfus
+2	6632	Nestlé
+3	9224	Formation et évolution du Système solaire
+4	13865	Strasbourg
+5	11130	Processeur
+6	12771	Empire State Building
+7	11447	Homophobie
+8	8422	Alfred Russel Wallace
+9	11999	Rôle du cheval dans la guerre
+10	13443	Magic Johnson
+11	14634	Émeu d'Australie
+12	16844	Histoire de l'Australie
+13	12320	Dynastie Shang
+14	14235	Ukrainien
+15	13440	Handball
+16	13884	Science-fiction
+17	15492	Nankin
+18	18473	Comédie musicale
+19	14414	Truffe (champignon)
+20	21018	La Réunion
+21	18875	Munich
+22	16796	Nantes
+23	17110	Fleuve Saint-Laurent
+24	17769	Rage (maladie)
+25	18383	Fonction d'onde
+26	20062	Constantinople
+27	16157	Transition de phase
+28	15903	Quasar
+29	11291	Société des Nations
+30	12781	Trilobita
+31	17638	Champ magnétique
+32	19528	Guerres turco-byzantines
+33	19068	Arts de l'Islam
+34	15134	Isambard Kingdom Brunel
+35	14006	Tourbière
+36	14814	Statue de la Liberté
+37	14940	Edward Hopper
+38	18482	Canoë
+39	18250	Os
+40	18152	Âne commun
+41	16318	Ishtar
+42	16918	Feu d'artifice
+43	15740	Sardaigne
+44	15468	Épée
+45	18186	Politique de sécurité nationale
+46	21147	Aigle royal
+47	18147	Architecture byzantine
+48	18905	Pokémon
+49	19621	Bombardements atomiques d'Hiroshima et de Nagasaki
+50	17410	Degré Fahrenheit
+51	15868	Pollution de l'eau
+52	20897	Bibliothèque nationale de France
+53	19055	Fièvre du Nil occidental
+54	20490	Baseball
+55	18687	Université Yale
+56	15596	Psychologie analytique
+57	11713	Ciment
+58	14039	Utopie
+59	20204	Squelette humain
+60	22021	Animal de compagnie
+61	18729	Karaté
+62	17499	Rugby à XV
+63	13444	Dessalement
+64	14820	Plongée sous-marine
+65	15196	Relativité restreinte
+66	18338	Alpinisme
+67	20155	Manchester
+68	19522	Guerre anglo-zouloue
+69	19508	David Lloyd George
+70	17002	Navire de ligne
+71	11375	Mexico-Tenochtitlan
+72	13989	Abbas Kiarostami
+73	18178	Xénon
+74	14851	Adivasis
+75	17202	Gdańsk
+76	20597	Eau de Javel
+77	18598	Masse volumique
+78	14906	Virginité
+79	15413	Témoins de Jéhovah
+80	19666	Alexandrie
+81	18556	Physique du solide
+82	20501	Stendhal
+83	20074	Oscars du cinéma
+84	15333	Art hellénistique
+85	12866	Projet Manhattan
+86	14191	Actinide
+87	19294	Minneapolis
+88	11591	Homotopie
+89	17942	Guerre civile du Sri Lanka
+90	16038	Drone
+91	20447	Guadeloupe
+92	12775	Horatio Nelson
+93	14221	Langage de programmation
+94	17900	Comédie
+95	18021	Triton (lune)
+96	16220	Hernando de Soto (conquistador)
+97	16917	Coleoptera
+98	14908	Organisme génétiquement modifié
+99	10812	Absolu (philosophie)
+100	20370	Grèce
+101	23138	Tunisie
+102	17971	Empire khmer
+103	15085	Perspective (représentation)
+104	17977	Mercure (chimie)
+105	17866	Sulfate de sodium
+106	11464	Équations de Navier-Stokes
+107	11190	Hypertext Transfer Protocol
+108	19767	Noix
+109	19445	Race humaine
+110	15823	Jan Hus
+111	23536	Amérique
+112	17735	Ère de l'information
+113	13445	Mickey Mouse
+114	14583	Virus de l'immunodéficience humaine
+115	13789	Système dynamique
+116	22003	Molécule d'eau
+117	17500	Industrie textile
+118	16991	Compagnie néerlandaise des Indes orientales
+119	18472	Âge d'or de la peinture néerlandaise
+120	11801	Empire parthe
+121	13649	Giuseppe Garibaldi
+122	19223	Pretoria
+123	17493	Saké
+124	17773	Capoeira
+125	11272	Chaîne de Markov
+126	16719	Déjeuner
+127	13371	Johannesbourg
+128	14199	Faucon pèlerin
+129	13391	Echinodermata
+130	16051	Oignon
+131	12638	Variété (géométrie)
+132	18627	Signe du zodiaque
+133	19973	Mur de Berlin
+134	11452	Imprimante
+135	14092	Tantale (chimie)
+136	21039	La Nouvelle-Orléans
+137	19631	Royaumes francs
+138	18870	François d'Assise
+139	15380	Melon (plante)
+140	12302	Glucide
+141	12916	Plutonium
+142	13452	Tapisserie de Bayeux
+143	15668	Psychiatrie
+144	15260	Cinéma indien
+145	17021	République romaine
+146	12548	Mitochondrie
+147	15367	Exoplanète
+148	9647	Procédé Haber
+149	13913	Pierre Bourdieu
+150	16951	Fréquence
+151	18177	Histoire de l'Irak
+152	16431	Dengue
+153	21553	Algérie
+154	14468	Milton Friedman
+155	10246	Enthalpie
+156	13778	Communication non verbale
+157	16505	New Age
+158	15068	Plotin
+159	16915	Totalitarisme
+160	15605	Déforestation
+161	15386	Lave-linge
+162	11519	Mythologie nordique
+163	14629	Tsunami
+164	16030	John Singer Sargent
+165	17349	Ursidae
+166	21123	Guerre de Corée
+167	15697	Avoine cultivée
+168	14948	Littérature de langue arabe
+169	11721	Métal alcalin
+170	16573	Nouvelle-Zélande
+171	12986	Phéniciens
+172	14656	Yunnan
+173	17263	Guitare électrique
+174	14979	Arc (architecture)
+175	12960	Grégoire de Nazianze
+176	12065	Guerres perso-romaines
+177	12353	Basile de Césarée
+178	19689	Émile Zola
+179	14359	Cancer colorectal
+180	19027	Spider-Man
+181	15787	Jack Kirby
+182	12406	Philosophie de l'esprit
+183	11746	Histoire de l'Égypte
+184	18310	Portugal
+185	20821	Basques
+186	18862	Pompéi
+187	18589	Insurrection de Budapest
+188	16333	Camillo Cavour
+189	16984	Guerre de Succession d'Autriche
+190	13098	École normale supérieure (Paris)
+191	15167	Arsenic
+192	16347	Acide borique
+193	15760	Nébuleuse planétaire
+194	16635	Bételgeuse
+195	17614	Allah
+196	17844	Québec
+197	9811	Langues chamito-sémitiques
+198	14812	Francs
+199	14648	Syllabe
+200	15474	Sorcellerie
+201	17557	Guerres arabo-byzantines
+202	15876	Végétarisme
+203	14686	Philosophie antique
+204	12386	Girafe
+205	15768	Château de Versailles
+206	16995	Bison d'Europe
+207	18697	Rat
+208	15733	Respiration
+209	10696	Euphorbia pulcherrima
+210	16810	Conflit nord-irlandais
+211	10560	Athlétisme
+212	13827	Pandémie de Covid-19
+213	11256	Socialisation
+214	17215	Le Caravage
+215	18128	Mois
+216	11838	Dust Bowl
+217	13466	Vélo tout-terrain
+218	8961	Pierre Abélard
+219	13776	République centrafricaine
+220	12254	Holothurie
+221	15187	Batman
+222	14236	Grégoire VII
+223	16163	Guerres d'Italie
+224	14705	Constitution des États-Unis
+225	9904	Dynastie Qin
+226	11404	Pur-sang
+227	13640	Guerre de tranchées
+228	13437	Cicéron
+229	14677	Orange (fleuve)
+230	13960	Éolienne
+231	12229	Histoire du Viêt Nam
+232	10928	Train
+233	14260	Comores (pays)
+234	13453	Wayne Gretzky
+235	17610	Raisin
+236	11513	Cybernétique
+237	16223	Tracteur agricole
+238	17067	Sirène
+239	13683	Île de Pâques
+240	15810	Empire colonial français
+241	19310	John Lennon
+242	16817	Plomb
+243	17200	Sainte-Sophie (Constantinople)
+244	17731	Celtes
+245	14501	Époque de Heian
+246	13985	Bhoutan
+247	16965	Genève
+248	16778	Fossile
+249	17318	Acier inoxydable
+250	18287	Conquête normande de l'Angleterre
+251	12986	Réflexion (physique)
+252	18504	Guerre de Quatre-Vingts Ans
+253	10997	Révolte des cipayes
+254	14082	Alpes scandinaves
+255	17528	Duel
+256	14977	Prisme (optique)
+257	19573	Cubisme
+258	18846	Seconde guerre des Boers
+259	15389	Macao
+260	12297	Bisexualité
+261	14261	Kayak
+262	19371	Duché de Bourgogne
+263	17317	Taj Mahal
+264	16729	Art brut
+265	18897	Tamoul
+266	17781	Somalie
+267	13162	Léopard
+268	14218	Musique country
+269	16070	Calmar
+270	15530	Eugène de Savoie-Carignan
+271	15582	Opium
+272	20320	Fluor
+273	14835	Chronologie
+274	14033	Biélorussie
+275	15812	Formule 1
+276	16813	Génocide arménien
+277	10904	Séisme du 1er novembre 1755 à Lisbonne
+278	14086	Résistance (composant)
+279	14849	Anoures
+280	13529	Force de Coriolis
+281	8995	Déterminisme
+282	2530	Môle (poisson)
+283	7959	Guerre du Biafra
+284	12405	Rugby à XIII
+285	17233	Ienisseï
+286	16046	Raj britannique
+287	14848	Psychanalyse
+288	13999	Libye
+289	15244	Slaves
+290	17061	Sismologie
+291	15614	Menthe
+292	19075	Mario (personnage)
+293	19825	Mékong
+294	13814	Trochilidae
+295	14066	Namibie
+296	14446	Dodo (oiseau)
+297	14613	Stratigraphie
+298	17961	Trinité (christianisme)
+299	16096	Bertrand Russell
+300	19450	Sept Merveilles du monde
+301	14808	Conscription
+302	12898	Kazakhstan
+303	14255	Navajos
+304	18986	Iode
+305	17637	Relativité générale
+306	16618	Antananarivo
+307	16916	Galaxie du Triangle
+308	14971	Patate douce
+309	12047	Reggae
+310	13722	Aconcagua
+311	15333	Vaccination
+312	16213	Échelle des temps géologiques
+313	15755	Musique médiévale
+314	14336	Pterosauria
+315	16051	Mythologie grecque
+316	11164	Symphonie no 8 de Mahler
+317	11006	Cholestérol
+318	13371	Urartu
+319	12517	Métrologie
+320	16982	Sclérose en plaques
+321	17556	Google
+322	17520	Traité de Versailles
+323	10397	Wikipédia
+324	12883	Radiothérapie
+325	20444	Mali
+326	16398	Disque dur
+327	19456	Élisabeth II
+328	13322	Puritanisme
+329	13995	Mouammar Kadhafi
+330	11987	Che Guevara
+331	12217	Athéna
+332	15965	Toronto
+333	16536	Pégase
+334	19410	Histoire de la Chine
+335	16616	Domitien
+336	15413	Otton Ier (empereur du Saint-Empire)
+337	8723	Potentiel thermodynamique
+338	16389	Conquête de l'Ouest
+339	17843	Chimpanzé
+340	15557	Hicham El Guerrouj
+341	20072	Bretagne
+342	18214	Rhinocéros
+343	14882	Mombasa
+344	12724	Édouard III
+345	11312	Zombie
+346	18268	Mars (mythologie)
+347	13849	Baliste
+348	19945	Maroc
+349	18796	Liechtenstein
+350	14674	Cirque
+351	12667	Union africaine
+352	13597	Cameroun
+353	15738	Mayotte
+354	17098	Sphinx
+355	17367	Sanglier
+356	16834	Berbères
+357	14204	Walter Scott
+358	7661	Essai randomisé contrôlé
+359	11764	Khmers rouges
+360	12539	Recyclage
+361	17767	Jean sans Terre
+362	15204	Cumulus
+363	15783	Passeport
+364	13695	Charrue
+365	10832	Arc (arme)
+366	8459	Tantrisme
+367	13392	General Electric
+368	15869	François Rabelais
+369	13722	Publicité
+370	10093	Balance (instrument)
+371	9763	Trouble anxieux
+372	8670	Transistor
+373	9744	Héraldique
+374	11898	Variable aléatoire à densité
+375	16975	Mont Kenya
+376	13852	Roch Hachana
+377	12677	Temple de Borobudur
+378	15335	Front de l'Est (Seconde Guerre mondiale)
+379	9608	Pierre de Rosette
+380	8729	Angiosperme
+381	13224	Grégoire Ier
+382	12218	Particule matérielle
+383	17437	Liban
+384	15693	Aurore polaire
+385	11855	Blizzard (météorologie)
+386	9473	Puissance (physique)
+387	8995	Habitat (écologie)
+388	11010	Transformations de Lorentz
+389	11914	Transformateur électrique
+390	13331	Rayonnement du corps noir
+391	10857	Diagramme de phase
+392	13624	Troie
+393	8023	Livre de Kells
+394	11396	Psychose (film)
+395	12954	Principe de relativité
+396	15909	Vercingétorix
+397	11992	Méthanal
+398	14602	James Bond
+399	14770	Judo
+400	9830	Dubaï (ville)
+401	11285	Nintendo
+402	13819	Zhou Enlai
+403	12669	Linux
+404	12746	Charia
+405	12446	Électrostatique
+406	13576	Accouchement
+407	6890	Assembleur
+408	10139	Extinction Crétacé-Paléogène
+409	14125	Dynastie Ming
+410	15331	Livre de la Genèse
+411	16538	Guyane
+412	12238	Loi normale
+413	9735	Ghetto
+414	6689	Productivité
+415	10670	John Keats
+416	16354	Venise
+417	12333	Polynôme
+418	13399	Kareem Abdul-Jabbar
+419	14631	Central Park
+420	10702	Ea (divinité)
+421	9403	Premiers Hommes modernes en Europe
+422	10208	BBC
+423	16209	Guillaume le Conquérant
+424	11188	Théorie des représentations
+425	17265	Los Angeles
+426	14409	Guépard
+427	9030	Bollywood
+428	9975	Dragon de Komodo
+429	10172	Henry Fielding
+430	11952	Sassanides
+431	12274	Risorgimento
+432	12447	Université de Kyoto
+433	12246	Roms
+434	13616	Cour internationale de justice
+435	8426	Acide aminé
+436	11648	Glucose
+437	14699	Opéra de Sydney
+438	10352	Coelacanthiformes
+439	14751	Guerre du Péloponnèse
+440	13177	Mauna Loa
+441	15894	Berlin
+442	8115	Goutte (maladie)
+443	12493	Naufrage du Titanic
+444	12955	Analyse vectorielle
+445	15614	Amour (fleuve)
+446	10850	Bahaïsme
+447	12067	Scoutisme
+448	12517	Imagerie par résonance magnétique
+449	9285	Nitrate d'ammonium
+450	12959	Îles Canaries
+451	14594	Gibraltar
+452	13838	Social-démocratie
+453	11370	Brasage
+454	14053	Kazan
+455	10968	Rio Paraná
+456	11008	Physique nucléaire
+457	9804	Enregistrement sonore
+458	13172	Mandarin (langue)
+459	8630	Huángdì
+460	14061	Orang-outan
+461	12373	Curium
+462	15080	Histoire de l'Afrique du Sud
+463	9053	Ménopause
+464	13294	Indochine française
+465	14895	Tomate
+466	13480	Groupe sanguin
+467	13319	Hypothèse de la nébuleuse
+468	18165	Équateur (pays)
+469	16059	Attentats du 11 septembre 2001
+470	10363	Cinéma russe et soviétique
+471	14069	Haïti
+472	18369	Sénégal
+473	14979	Johannes Vermeer
+474	14434	Attila
+475	13984	Haruki Murakami
+476	15164	Bogota
+477	7967	Mystères d'Éleusis
+478	14439	Chicago
+479	12291	Fichier informatique
+480	15507	Seconde guerre italo-éthiopienne
+481	13806	Acide acétique
+482	16787	Orque
+483	11400	Teotihuacan
+484	9430	Conventions de Genève
+485	8791	Déterminant (mathématiques)
+486	11314	Transformation de Laplace
+487	15708	Suzanne Lenglen
+488	15806	Odin
+489	15603	Morse (animal)
+490	11611	Équations de Maxwell
+491	11197	Poisson rouge
+492	12566	Anubis
+493	14113	Guerres d'indépendance hispano-américaines
+494	15245	Secte
+495	16404	Course d'orientation
+496	15178	Saturn V
+497	16674	Macédoine du Nord
+498	10374	Vodka
+499	14739	Athènes
+500	18818	Rotterdam
+501	13522	Cactaceae
+502	14445	Moment d'inertie
+503	13465	Quartz (minéral)
+504	16724	Victoria (reine)
+505	9466	Castes en Inde
+506	12782	Dromadaire
+507	13397	Kumbh Mela
+508	14180	Intrication quantique
+509	13447	Élite
+510	12914	Quaker
+511	13756	Martin Heidegger
+512	8995	Trouble bipolaire
+513	10419	Mouvement social
+514	15559	Tianjin
+515	14078	Grand collisionneur de hadrons
+516	15399	Infarctus du myocarde
+517	19687	Côte d'Ivoire
+518	15591	Biathlon
+519	9602	Charbon de bois
+520	8345	Optimisation linéaire
+521	15568	Homéopathie
+522	13011	Parallélisme (informatique)
+523	20492	Histoire de l'aviation
+524	20298	Martinique
+525	14129	Ethernet
+526	8736	Aphidoidea
+527	12273	Fantasy
+528	18439	Foudre
+529	20402	Boxe
+530	17069	Torture
+531	14046	Expérience de la goutte d'huile de Millikan
+532	18844	Coupe du monde de rugby à XV
+533	9313	Cellulose
+534	12673	Machine
+535	17280	Révolution russe de 1905
+536	16387	Skateboard
+537	11607	Plomberie
+538	18868	Vitesse du son
+539	17664	Oslo
+540	14286	Lion
+541	14057	Histoire de l'Éthiopie
+542	19815	Histoire du Pakistan
+543	18590	Babylone
+544	15983	Typhus
+545	19954	Programme Apollo
+546	15633	Cristal
+547	13060	Shanghai
+548	15215	Shiva
+549	20843	Martin Luther King
+550	21589	Sarajevo
+551	15064	Mouvement Massorti
+552	20422	Toyota
+553	14912	Université de Heidelberg
+554	11441	Fission nucléaire
+555	16168	Calcium
+556	14997	Spin
+557	17722	Magnitude (astronomie)
+558	19631	Loi de probabilité
+559	19687	Porto Alegre
+560	13568	Série de Fourier
+561	12595	Guerre civile russe
+562	14161	Shabbat
+563	21107	Religion de la Rome antique
+564	21702	Torah
+565	17622	Nabla
+566	19179	Mont Saint Helens
+567	13066	Anasazis
+568	13983	Racine carrée
+569	14954	Musée de l'Ermitage
+570	19824	Johannes Brahms
+571	16388	Yahweh
+572	18514	Symbolisme (art)
+573	17472	Rubik's Cube
+574	18532	Sous-marin
+575	11476	Shinkansen
+576	15994	Panthère des neiges
+577	17806	Espéranto
+578	19397	Récif corallien
+579	20505	Impressionnisme
+580	16694	État-providence
+581	13243	Royaume lagide
+582	11454	Agence spatiale européenne
+583	9222	Bryophyte
+584	19618	Jaguar
+585	17998	Titane
+586	16477	Programme Voyager
+587	11555	Biais de confirmation
+588	13637	Lydie
+589	10329	Oreillons
+590	11650	Usain Bolt
+591	11202	Pied (unité)
+592	10150	Capteur
+593	12980	Cuisine mexicaine
+594	12623	Chameau de Bactriane
+595	15438	Vatican
+596	8534	Monisme
+597	11899	Histoire du Maroc
+598	11925	Huître
+599	14267	Chaîne Transantarctique
+600	19737	Amérique latine
+601	17566	Crimée
+602	13155	Réalisme (philosophie)
+603	12705	Yom Kippour
+604	15489	Travail des enfants
+605	17470	Droit international public
+606	15507	Río de la Plata
+607	19953	Aphrodite
+608	18298	Argon
+609	19760	Alaska
+610	13340	Camps de concentration nazis
+611	10947	Écriture maya
+612	18270	Armand Jean du Plessis de Richelieu
+613	19686	Carl Lewis
+614	22154	Las Vegas
+615	14551	Soufisme
+616	15396	Brevet d'invention
+617	10153	Dualité onde-corpuscule
+618	12282	Botulisme
+619	17376	Technétium
+620	14723	Gymnosperme
+621	20175	Galaxie d'Andromède
+622	18305	Machu Picchu
+623	14713	Al-Andalus
+624	12446	Ispahan
+625	10079	Diffusion de la matière
+626	20298	Numération romaine
+627	17627	Féodalité
+628	15644	Hypertext Markup Language
+629	17105	Lanthanide
+630	19747	Tchad
+631	12291	Commerce triangulaire
+632	12807	Rotation (physique)
+633	19812	Réunification allemande
+634	20190	Caïn
+635	23680	Louis IX
+636	17484	Moment cinétique
+637	16130	Lèpre
+638	11327	Négationnisme
+639	15766	Césium
+640	16041	Sursaut gamma
+641	22510	Histoire du Canada
+642	19570	Architecture moderne
+643	21787	Ulysse
+644	18093	Architecture romane
+645	14740	Monaco
+646	10211	Faisceau (mathématiques)
+647	20978	Wi-Fi
+648	16361	Corruption
+649	20005	Domestication du feu
+650	22002	Parc national de Yellowstone
+651	14747	Énergie interne
+652	10957	Paganisme germanique
+653	14200	Physique statistique
+654	18765	Pure race espagnole
+655	19639	Acupuncture
+656	16869	Alfred North Whitehead
+657	21107	Lithium
+658	15351	Écart type
+659	14136	Seconde (temps)
+660	14123	Argumentation
+661	17978	Tikal
+662	22159	Empire carolingien
+663	21490	Planeur
+664	21689	Isis
+665	17787	Denali
+666	11240	Héraclius
+667	14640	Industrie
+668	20050	General Motors
+669	26119	Pyrénées
+670	19528	Louis Riel
+671	18876	Euthanasie
+672	20519	Ozone
+673	13189	Pierre II (empereur du Brésil)
+674	17608	Anvers
+675	19071	Alchimie
+676	19556	Spectre visible
+677	15851	Robotique industrielle
+678	19860	Canne à sucre
+679	21446	Tour Eiffel
+680	14322	Arménie
+681	17819	Violoncelle
+682	22764	Acide sulfurique
+683	20485	Tang Taizong
+684	21478	Nouvelle-Calédonie
+685	8881	Gnosticisme
+686	20087	Football américain
+687	14641	Pâques
+688	16542	Arc-en-ciel
+689	13415	Hareng rouge
+690	24721	Californie
+691	25803	C (langage)
+692	19583	Urbanisation
+693	21010	Guerre des Gaules
+694	13767	Saint-Marin
+695	12953	Mont Kosciuszko
+696	16371	Civilisation zapotèque
+697	23839	Richard Nixon
+698	20825	Communication non verbale
+699	23529	Moldavie
+700	17147	Intelligence humaine
+701	11784	Opéra de Pékin
+702	15519	Université de Cambridge
+703	24182	Zimbabwe
+704	22014	Salomon (roi d'Israël)
+705	19215	Identité d'Euler
+706	20803	Fièvre jaune
+707	20432	Hockey sur glace
+708	12384	Rijksmuseum Amsterdam
+709	17247	Guerre américano-mexicaine
+710	20071	Aubergine
+711	23862	Guerre d'Irak
+712	20620	David (Michel-Ange)
+713	24627	Écosse
+714	21175	Kyoto
+715	13265	Maison de Médicis
+716	19186	Zeus
+717	20400	Travail
+718	20719	Pollution de l'air
+719	14649	Hangeul
+720	20346	Accident de la route
+721	20064	Buenos Aires
+722	14160	Dynasties du Sud et du Nord
+723	16895	Adverbe
+724	16350	Théodora (impératrice, épouse de Justinien Ier)
+725	12927	Homologie (mathématiques)
+726	11061	Influence sociale
+727	16495	Histoire de France
+728	12467	Tunnel
+729	12761	Guerre soviéto-polonaise
+730	15569	Horus
+731	18618	Université de Tokyo
+732	24171	Andorre
+733	19348	Siluriformes
+734	15903	Circulation atmosphérique
+735	18949	Code civil (France)
+736	14558	Tunnel sous la Manche
+737	12264	Encre
+738	16179	Transidentité
+739	17478	Méningite
+740	15559	Supraconductivité
+741	21051	Encyclopédie
+742	18551	Le Magicien d'Oz (film, 1939)
+743	13963	Océan
+744	13765	Architecture chinoise
+745	19489	Séparation des Églises d'Orient et d'Occident
+746	20281	Station spatiale internationale
+747	23448	Éléphant
+748	19221	Massacre de Nankin
+749	15029	Mollusca
+750	12529	Commonwealth
+751	16103	Koala
+752	15792	Nok (culture)
+753	18387	Cunéiforme
+754	19950	Agriculture biologique
+755	13657	Porifera
+756	12146	Ester
+757	11945	Cor d'harmonie
+758	14755	Mont Fuji
+759	14886	Joseph Priestley
+760	18329	Titan (lune)
+761	19039	Symphonie no 5 de Beethoven
+762	19014	Festival de Cannes
+763	15884	Iguana iguana
+764	10081	Beau
+765	8759	Plesiosauria
+766	14180	Tribu (ethnologie)
+767	15266	Guérilla
+768	18677	Hautbois
+769	17031	Indice de masse corporelle
+770	13890	M87 (galaxie)
+771	11450	Poids
+772	12517	British Library
+773	19221	Noël
+774	16537	État fédéral
+775	16468	Licorne
+776	18403	Flûte de Pan
+777	14327	Ur (Mésopotamie)
+778	11371	Golf
+779	12112	Angkor Vat
+780	16994	Panda géant
+781	16502	Généalogie
+782	13245	Fond diffus cosmologique
+783	20848	Louis XIV
+784	17243	Voyage dans le temps
+785	12073	Calcutta
+786	10440	Guerres byzantino-bulgares
+787	18609	Saut à la perche
+788	17433	Noisette
+789	16607	Conquêtes musulmanes des Indes
+790	16001	Ouzbek
+791	11260	Durabilité
+792	6107	Métamatériau
+793	9280	Fontaine (Duchamp)
+794	19695	Coupe du monde de football
+795	16048	Relations internationales
+796	17637	Détroit (Michigan)
+797	13002	Royaume de Champa
+798	12011	Srinivasa Ramanujan
+799	10665	Moteur hydraulique
+800	11735	Métal alcalino-terreux
+801	17398	Formule d'Euler
+802	17354	Architecture gothique
+803	16361	Erevan
+804	15599	Uttar Pradesh
+805	17124	Luxembourg
+806	10868	Michael Phelps
+807	10081	Classicisme français
+808	15562	Théorème de Pythagore
+809	17929	Jeux olympiques d'hiver
+810	14313	Tramway
+811	13173	Force centripète
+812	14333	Ronaldo
+813	10239	Salsa
+814	9315	Mutilations génitales féminines
+815	13434	Murray (fleuve)
+816	12502	Salouen
+817	11895	Puncak Jaya
+818	15353	100 mètres (athlétisme)
+819	10819	Arithmétique modulaire
+820	8364	Guerre de Livonie
+821	7700	Enzyme
+822	13528	Nauru
+823	12505	John Churchill (1er duc de Marlborough)
+824	16873	Guerre d'Espagne
+825	10468	Han (ethnie)
+826	12840	Gratte-ciel
+827	10349	Herpès
+828	11151	Barrage d'Itaipu
+829	14653	Orage
+830	16538	Trois Glorieuses
+831	16342	Cantonais
+832	14818	Gamal Abdel Nasser
+833	13433	Chiroptera
+834	9980	Android
+835	11236	Samarcande
+836	15505	Révolution nationale indonésienne
+837	19331	Bolivie
+838	18626	Anne Frank
+839	18966	Seattle
+840	15268	Osiris
+841	10400	Ganymède (lune)
+842	13423	Ornithorynque
+843	14776	Pigment
+844	17071	Manifestations de la place Tian'anmen
+845	12823	Renseignement
+846	15382	Physique au-delà du modèle standard
+847	14773	(1) Cérès
+848	9313	Averroès
+849	14822	Hip-hop
+850	14072	Francisco de Goya
+851	16263	Révolution philippine
+852	17611	Énergie hydroélectrique
+853	17729	Produit intérieur brut
+854	15715	Tachkent
+855	9658	Étrusques
+856	12487	Jackson Pollock
+857	16593	Atmosphère (unité)
+858	16870	Gravure
+859	15952	Élie
+860	19465	Symphonie no 9 de Beethoven
+861	16384	Tortue
+862	11517	Krach de 1929
+863	12608	Stoïcisme
+864	16251	Empreinte génétique
+865	18700	Intoxication alimentaire
+866	22214	Parthénon
+867	28002	Groenland
+868	20989	Audrey Hepburn
+869	14876	Caféine
+870	20288	Roi Arthur
+871	22797	Brocoli
+872	19447	Osmose
+873	23526	Boson de Higgs
+874	24837	Navette spatiale américaine
+875	16835	Inductance
+876	19156	Guerre du Pacifique
+877	19041	Mangrove
+878	28444	Éclipse
+879	30367	Bucarest
+880	22583	Séquence principale
+881	19580	Cyanobacteriota
+882	30067	Mer Noire
+883	16201	Goths
+884	19069	Violence
+885	22500	Transnistrie (État)
+886	31608	Troisième Reich
+887	27726	Ultrason
+888	27186	Lycanthrope
+889	21443	Acte de langage
+890	15889	Douleur
+891	24888	Lisbonne
+892	22918	Biome
+893	30479	Moustique
+894	30050	Enid Blyton
+895	35505	Histoire de l'Autriche
+896	30565	Première guerre sino-japonaise
+897	18048	Code Morse international
+898	26077	Inuits
+899	25330	Aérodynamique
+900	26070	Mustafa Kemal Atatürk
+901	22409	Suite des protocoles Internet
+902	17421	Synapsida
+903	15715	Levier (mécanique)
+904	17359	Croissance économique
+905	17092	Pornographie
+906	22296	Ukiyo-e
+907	26538	Manta (genre)
+908	31189	Clint Eastwood
+909	32547	Séville
+910	21903	Transport par câble
+911	17850	Edgar Allan Poe
+912	21949	Gabon
+913	22070	Rhétorique
+914	29815	Siamois (chat)
+915	31985	Héraclès
+916	32113	George Lucas
+917	27990	Charles XIV Jean
+918	15632	Domesticité
+919	24037	Gaz noble
+920	32001	Soufre
+921	35755	San Diego
+922	34389	Pomme
+923	26791	Carl Gustav Jung
+924	23392	Hannibal Barca
+925	21358	2001, l'Odyssée de l'espace
+926	21060	Panthéisme
+927	23968	Déformation élastique
+928	24705	Blanc
+929	27755	Apiculture
+930	30785	Metropolitan Museum of Art
+931	21541	Holodomor
+932	16807	Astrologie
+933	23838	Économie de l'Union européenne
+934	29515	Naissance des étoiles
+935	26184	Famille Brontë
+936	27632	Appareil respiratoire
+937	28585	Pentecôte
+938	26096	Saumon
+939	15850	Cervelet
+940	24095	Prague
+941	31292	Canberra
+942	27745	Tchétchénie
+943	24567	Filtration
+944	24688	Microsoft Windows
+945	20683	Menelik II
+946	16660	Commerce en ligne
+947	15576	Épigénétique
+948	27223	Io (lune)
+949	28156	Édimbourg
+950	17892	Alternance de générations
+951	28882	Vitesse
+952	20677	Théorie des probabilités
+953	16801	Diamant
+954	17905	Benazir Bhutto
+955	19493	Avalanche
+956	13323	Coordonnées polaires
+957	17260	Inflation
+958	15704	Citrus ×paradisi
+959	12887	Prédation
+960	13587	Théorèmes d'incomplétude de Gödel
+961	15735	Magie (surnaturel)
+962	18699	Nicolas de Myre
+963	14993	Hajj
+964	15966	Moldavie (région historique)
+965	20679	National Aeronautics and Space Administration
+966	19114	Artillerie
+967	18838	Robert Oppenheimer
+968	18583	Travailleur social
+969	25830	Camion
+970	29943	Cuba
+971	23751	Clip
+972	30263	Maladie d'Alzheimer
+973	22583	Philosophie indienne
+974	16857	Rachel Carson
+975	16518	Khazars
+976	23272	Zoroastrisme
+977	23404	Théorie de Galois
+978	29979	Gênes
+979	24312	Java (langage)
+980	21748	Principe d'incertitude
+981	19974	Attaque de Pearl Harbor
+982	24971	Belgrade
+983	25587	Période Yayoi
+984	38551	Dollar américain
+985	28951	Naine blanche
+986	20879	Bilateria
+987	11205	Modernité comportementale
+988	15890	Felidae
+989	21518	Shoah
+990	22530	Coccinellidae
+991	27173	Géothermie
+992	28384	Antonio Vivaldi
+993	27981	Planète naine
+994	21609	Travail d'une force
+995	16893	Histoire des ordinateurs
+996	18204	Poulie
+997	24809	Dopage (sport)
+998	24044	Morphologie (linguistique)
+999	34614	Barcelone
+1000	32785	1000
+1001	26975	Jimi Hendrix
+1002	20449	Aliénor d'Aquitaine
+1003	20054	Symon Petlioura
+1004	27768	Frison (cheval)
+1005	28786	Configuration électronique
+1006	36134	Montréal
+1007	36485	J. R. R. Tolkien
+1008	32245	Suède
+1009	20093	Cléopâtre VII
+1010	21279	Îles Kouriles
+1011	28746	Birman (langue)
+1012	30681	Acoustique
+1013	34182	Rayon X
+1014	31056	Migraine
+1015	26544	Ganesh
+1016	17142	Malais (langue)
+1017	27015	Guerres de Religion (France)
+1018	29572	Vivien Leigh
+1019	31417	Guerres médiques
+1020	28168	Cinématique
+1021	35378	Boston
+1022	22819	Labyrinthe
+1023	16305	Planète mineure
+1024	18815	Traumatisme majeur
+1025	29703	Placenta
+1026	29015	Rosa Parks
+1027	32270	Échecs
+1028	27381	Genévrier
+1029	23719	Handicap mental
+1030	19381	Autoroute
+1031	27531	Jean-Jacques Rousseau
+1032	26136	Système d'unités de Planck
+1033	34695	Magnésium
+1034	34110	Chimie nucléaire
+1035	35241	Guerre anglo-américaine de 1812
+1036	30037	Albert Camus
+1037	18881	Accord (musique)
+1038	24188	Hippopotamus amphibius
+1039	32448	Charles Dickens
+1040	21553	Dinophyta
+1041	31813	Cerf élaphe
+1042	28835	Hallucination
+1043	23600	Guillaume Ier d'Orange-Nassau
+1044	16881	Suse (Iran)
+1045	24374	Parc zoologique
+1046	29948	Vanille
+1047	28936	Microéconomie
+1048	32842	Vallée du Grand Rift
+1049	29372	Rosier
+1050	28104	Pelote basque
+1051	18059	Produit scalaire
+1052	23606	Mouvement américain des droits civiques
+1053	29267	Civilisation minoenne
+1054	26223	Canular
+1055	35794	Marrakech
+1056	29112	Boson
+1057	25597	Facebook
+1058	15280	Dynastie Jin (265-420)
+1059	18846	Pétrarque
+1060	24810	Utilitarisme
+1061	34552	Abidjan
+1062	33382	Halloween
+1063	33268	Hergé
+1064	27887	Commune de Paris
+1065	16082	Anorexie mentale
+1066	23952	Révolution
+1067	36096	Amsterdam
+1068	28498	Réseau social
+1069	32222	Badminton
+1070	26261	Tique
+1071	23593	Histoire du Nigeria
+1072	18911	Guerre de Troie
+1073	16815	Décibel
+1074	21204	Société civile
+1075	30550	Crise financière mondiale de 2007-2008
+1076	30423	Beagle
+1077	24253	Famille Rothschild
+1078	18116	Benzodiazépine
+1079	18402	Parc national de Yosemite
+1080	21904	Hongrois
+1081	30835	Loutre de mer
+1082	29913	Allaitement maternel
+1083	25665	Apple
+1084	21657	Vésuve
+1085	19277	Lipide
+1086	20634	Séoul
+1087	16670	Visualisation de données
+1088	30136	Superman
+1089	26498	Époque hellénistique
+1090	24858	Communauté des États indépendants
+1091	23624	Clarinette
+1092	21514	Art japonais
+1093	14473	Espérance mathématique
+1094	18132	Calcul des variations
+1095	28013	Restaurant
+1096	23519	Mohammad Reza Pahlavi
+1097	22812	Franc-maçonnerie
+1098	24333	Ambre
+1099	24177	Western
+1100	13735	William Hogarth
+1101	22700	Albanie
+1102	30198	Mouton
+1103	24301	Augustin d'Hippone
+1104	28097	Orénoque
+1105	28733	Dérivée
+1106	23762	Taekwondo
+1107	16975	Lynx
+1108	23092	Néerlandais
+1109	29705	Marilyn Monroe
+1110	23024	Gestion des déchets
+1111	22383	Akkadien
+1112	14983	Thoutmôsis Ier
+1113	16186	Pessa'h
+1114	14144	République de Sakha
+1115	15113	Comportementalisme
+1116	26182	Histoire de l'Irak
+1117	26677	Art déco
+1118	27829	Apollon
+1119	23602	Nô
+1120	22037	Donald Duck
+1121	14218	Sagrada Família
+1122	18133	Musée d'Orsay
+1123	22461	Bamako
+1124	20253	Condensat de Bose-Einstein
+1125	23541	Escargot
+1126	22584	Équation différentielle ordinaire
+1127	18805	Performance (art)
+1128	12371	Code génétique
+1129	20547	Washington (district de Columbia)
+1130	12509	Capétiens
+1131	21941	Pinatubo
+1132	23188	Synagogue
+1133	27000	Bloc de l'Est
+1134	22826	Art roman
+1135	14721	Marche à pied
+1136	14711	Siphonaptera
+1137	22033	Périclès
+1138	19366	Palais de Dioclétien
+1139	21054	El Niño
+1140	20364	Cigarette
+1141	18181	Leif Erikson
+1142	7688	Dynastie Hồng Bàng
+1143	16859	Barbe Noire
+1144	19032	Polymère
+1145	27513	Togo
+1146	22832	Snowboard
+1147	17964	Réfraction
+1148	19433	George Orwell
+1149	13884	Chlorure de sodium
+1150	20229	Basques
+1151	18351	Nicolae Ceaușescu
+1152	19975	Recensement de la population
+1153	23637	George III
+1154	18695	Type spectral
+1155	23505	Pérou
+1156	13751	New Deal
+1157	13850	Acide gras
+1158	17249	Amerigo Vespucci
+1159	21576	Rio Madeira
+1160	22632	Rosée
+1161	26421	Toulouse
+1162	22926	Empire allemand
+1163	12523	Civilisation mycénienne
+1164	14137	Guerre des Deux-Roses
+1165	18652	Mystique
+1166	24290	Sierra Nevada (États-Unis)
+1167	22749	Végétarisme
+1168	18799	Ole Einar Bjørndalen
+1169	16816	Mittani
+1170	16110	Kinshasa
+1171	16924	Safran (épice)
+1172	22654	Printemps arabe
+1173	24949	Honoré de Balzac
+1174	23806	Œuf (aliment)
+1175	20377	Babylone (civilisation)
+1176	23321	Dallas
+1177	12521	Espace euclidien
+1178	14601	Muhammad Ali Jinnah
+1179	17864	Indice de réfraction
+1180	23267	Guernica (Picasso)
+1181	20375	Capacité thermique
+1182	16903	Manuel Ier Comnène
+1183	16743	Tenzin Gyatso
+1184	12140	Décalage vers le rouge
+1185	18896	Ontario
+1186	21244	Chute de Constantinople
+1187	19491	Période des Royaumes combattants
+1188	20210	Bonobo
+1189	19984	Ordre du Temple
+1190	12724	Région HII
+1191	19698	Corée du Nord
+1192	15422	Point de Lagrange
+1193	22676	Mérovingiens
+1194	25102	Région wallonne
+1195	27235	Bulgarie
+1196	27282	Rhin
+1197	22419	Histoire de l'Écosse
+1198	15711	Fantôme
+1199	18398	Curitiba
+1200	24629	Mammouth
+1201	21330	Halogène
+1202	22393	Espace vectoriel
+1203	25451	Révolution russe
+1204	15414	Polarisation (optique)
+1205	12541	Élam
+1206	17954	Moyenne
+1207	21314	Sanskrit
+1208	21309	Ninive
+1209	22193	Uruk
+1210	21698	Cuirassé
+1211	18026	Biocarburant
+1212	14767	Jus
+1213	16402	Yiddish
+1214	24543	Printemps de Prague
+1215	27009	Metal
+1216	20912	Yohannes IV
+1217	23012	Bicarbonate de sodium
+1218	15962	Mèdes
+1219	11219	Joaquim Maria Machado de Assis
+1220	17209	Empathie
+1221	30229	Finlande
+1222	27432	Royaume du Kongo
+1223	25391	Grand Bond en avant
+1224	30152	Kiev
+1225	24388	Vin
+1226	11148	Économétrie
+1227	23705	Lyon
+1228	28498	Unification allemande
+1229	34479	Naples
+1230	28492	Moineau domestique
+1231	29293	Cleveland
+1232	22683	Pierre Ier (empereur du Brésil)
+1233	15951	Vénus de Milo
+1234	16159	Sylviculture
+1235	28762	Otto von Bismarck
+1236	35032	Le Cap
+1237	30379	Championnat d'Angleterre de football
+1238	33205	Henri II (roi d'Angleterre)
+1239	30342	François Ier (roi de France)
+1240	17386	Apartheid
+1241	19882	Organisation de coopération et de développement économiques
+1242	28875	Souris (informatique)
+1243	27601	Graffiti
+1244	32694	Maladie de Lyme
+1245	33090	Chlore
+1246	22612	Edmund Hillary
+1247	15113	Alces alces
+1248	23952	Basket-ball
+1249	38966	Nombre d'or
+1250	33644	Muay-thaï
+1251	32707	Braille
+1252	32096	Loi binomiale
+1253	29711	Tennis de table
+1254	20194	Islande
+1255	22071	Sionisme
+1256	27140	Petite Ourse
+1257	34145	Escalade
+1258	30353	Soin infirmier
+1259	28447	Réseau électrique
+1260	22859	Diode électroluminescente
+1261	18257	Météorologie
+1262	21762	Tango (danse)
+1263	21397	Lentinula edodes
+1264	30066	Achille
+1265	25995	Révolution verte
+1266	21784	Chloroplaste
+1267	21153	Histoire de la sociologie
+1268	14370	Noam Chomsky
+1269	20897	Exponentielle de base a
+1270	31631	Flûte traversière
+1271	33282	Premier Empire bulgare
+1272	36303	Violon
+1273	38471	Fée
+1274	23664	Urartu
+1275	14610	Chiffrement
